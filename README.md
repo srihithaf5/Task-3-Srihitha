@@ -191,18 +191,5 @@ Remove student records from the database.
 * Git and GitHub Workflow
 
 ---
-
-## Project Status
-
-Completed Successfully
-
----
-
-## Author
-
-Srihitha
-
-DecodeLabs Full Stack Development Internship
-
-Batch 2026
+<img width="1873" height="1128" alt="image" src="https://github.com/user-attachments/assets/94f3ef7e-a737-4199-b4ef-4a04dd8be4e8" />
 
