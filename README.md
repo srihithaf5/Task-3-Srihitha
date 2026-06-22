@@ -194,5 +194,6 @@ Remove student records from the database.
 <img width="1873" height="1128" alt="image" src="https://github.com/user-attachments/assets/94f3ef7e-a737-4199-b4ef-4a04dd8be4e8" />
 <img width="1878" height="935" alt="image" src="https://github.com/user-attachments/assets/24bde8c0-de87-46b7-970b-1211061894fb" />
 <img width="1856" height="947" alt="image" src="https://github.com/user-attachments/assets/c5fc7d40-ae0f-40b3-8d7a-cc461fadfb47" />
+<img width="1892" height="931" alt="image" src="https://github.com/user-attachments/assets/e81e15a6-b5c1-44c7-94c2-a4a86bf5cd37" />
 
 
