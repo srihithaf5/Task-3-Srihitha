@@ -205,4 +205,4 @@ Srihitha
 DecodeLabs Full Stack Development Internship
 
 Batch 2026
-<img width="1873" height="1128" alt="image" src="https://github.com/user-attachments/assets/91b83fba-94d3-45e1-8ca0-256a90d7854d" />
+
